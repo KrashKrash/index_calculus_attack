@@ -10,8 +10,8 @@ E = EllipticCurve(GF(p), [a, b])
 # Define base point and public key
 G_x = 0x79BE667EF9DCBBAC55A06295CE870B07029BFCDB2DCE28D959F2815B16F81798
 G = E.lift_x(G_x, all=True)[0]  # Extract the first element
-pub_key_x = 0xd6597d465408e6e11264c116dd98b539740e802dc756d7eb88741696e20dfe7d
-pub_key_y = 0x3588695d2e7ad23cbf0aa056d42afada63036d66a1d9b97070dd6bc0c87ceb0d
+pub_key_x = 0x2dfn234fjfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+pub_key_y = 0x23r4fwd2dxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 pub_key = E((pub_key_x, pub_key_y))
 
 # Define parameters for index calculus attack

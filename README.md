@@ -1,2 +1,4 @@
-code optimize for use to attack the ECDSA SECP256k1 256 bit keys
-code written in SAGEMATH
+Code optimize for use to attack the ECDSA SECP256k1 256 bit keys.
+Code was written in SAGEMATH.
+
+THIS IS FOR EDUCATIONAL PURPOSE ONLY.
